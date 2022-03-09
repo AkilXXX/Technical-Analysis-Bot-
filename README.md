@@ -12,3 +12,8 @@ tradingview_ta
 
 ### run main.py and Enter your TELEGRAM BOT TOKEN 
 #### get your token from `` @BotFather ``
+
+
+## programmer 
+
+### TElEGRAM : @AKIL828 - @FFFFFFM
